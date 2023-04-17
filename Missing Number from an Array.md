@@ -12,4 +12,5 @@ class Solution {
     }
 }
 ```
+<img width="503" alt="Screenshot 2023-04-17 at 10 44 33 PM" src="https://user-images.githubusercontent.com/111800760/232561188-f71e3243-843c-4e3e-99c9-7bb2dbd2681f.png">
 
