@@ -1,4 +1,5 @@
 # Missing Element from an Array 
+```
 class Solution {
     int MissingNumber(int array[], int n) {
         // Your Code Here
@@ -10,3 +11,5 @@ class Solution {
         return tSum-sum;
     }
 }
+```
+
