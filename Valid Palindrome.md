@@ -27,5 +27,7 @@ class Solution {
     }
 }
 ```
+<img width="770" alt="Screenshot 2023-06-17 at 12 07 11 AM" src="https://github.com/Abhi-Codehub/DSA-/assets/111800760/2e0de139-c89a-4a46-928d-c982bd86dc0a">
+
 
 
