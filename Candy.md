@@ -31,3 +31,5 @@ class Solution {
     }
 }
 ```
+<img width="889" alt="Screenshot 2023-06-17 at 7 13 28 PM" src="https://github.com/Abhi-Codehub/DSA-/assets/111800760/b92395ca-e782-4c9d-a5d2-19b2ac522de3">
+
