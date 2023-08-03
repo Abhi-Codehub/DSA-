@@ -34,8 +34,6 @@ class Solution
                 max = A[i];
             }
         }
-        int sum = min + max; 
-            return sum;
-    }
-}
 ```
+<img width="432" alt="Screenshot 2023-08-03 at 1 37 04 PM" src="https://github.com/Abhi-Codehub/DSA-/assets/111800760/ae0e8493-1031-4b3f-9954-5d4ae44f4119">
+
