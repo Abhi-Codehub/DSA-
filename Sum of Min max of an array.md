@@ -17,3 +17,25 @@ class Solution
 
 ```
 <img width="535" alt="Screenshot 2023-08-03 at 1 33 28 PM" src="https://github.com/Abhi-Codehub/DSA-/assets/111800760/bfcfab61-6391-47e7-b0ca-c24492d81833">
+
+## Second Approach 
+``` class Solution
+{ 
+    public static int findSum(int A[],int N) 
+    {
+        int max = A[0]; 
+        int min = A[0];
+        
+        for (int i = 0; i<N; i++){
+            if(A[i] < min) {
+                min = A[i];
+            }
+            if(A[i] > max){
+                max = A[i];
+            }
+        }
+        int sum = min + max; 
+            return sum;
+    }
+}
+```
