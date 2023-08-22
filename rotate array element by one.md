@@ -13,3 +13,5 @@ class Compute {
     }
 }
 ```
+<img width="419" alt="Screenshot 2023-08-22 at 11 36 57 PM" src="https://github.com/Abhi-Codehub/DSA-/assets/111800760/d415fec1-b753-4c8d-8f3d-56bf84777e1e">
+
