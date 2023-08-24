@@ -1,4 +1,4 @@
-# Contains Duplicate From an unsorted Linkedlist
+# Remove Duplicate From an unsorted Linkedlist
 ```
 class Solution
 {
