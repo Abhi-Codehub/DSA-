@@ -29,3 +29,5 @@ class Solution
     }
 }
 ```
+<img width="445" alt="Screenshot 2023-08-24 at 9 11 51 PM" src="https://github.com/Abhi-Codehub/DSA-/assets/111800760/3947dede-cc82-4c16-8a02-efa862804fc8">
+
