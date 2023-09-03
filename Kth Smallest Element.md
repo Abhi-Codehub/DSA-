@@ -1,1 +1,23 @@
 # kth Smallest Element 
+```
+class Solution{
+    public static int kthSmallest(int[] arr, int l, int r, int k) 
+    { 
+       // Solving this problem using Heaps Maxheap 
+       
+       int n = arr.length;
+       
+       PriorityQueue<Integer> minH = new PriorityQueue<>((a,b) -> b - a);
+       
+       for(int i = 0; i<n; i++){
+           minH.add(arr[i]);
+           
+           if(minH.size() > k){
+               minH.remove();
+           }
+       }
+       return minH.peek();
+    } 
+}
+
+```
