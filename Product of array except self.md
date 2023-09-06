@@ -1,1 +1,1 @@
-# Product of an Array except
+# Product of an Array except self
