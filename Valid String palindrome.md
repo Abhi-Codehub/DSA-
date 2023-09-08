@@ -1,1 +1,1 @@
-#
+# Valid String Palindrome
